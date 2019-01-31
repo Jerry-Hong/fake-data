@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jerry",
+      "email": "jerry@branch8.com"
+    },
+    {
+      "id": 2,
+      "name": "Anna",
+      "email": "anna@branch8.com"
+    }
+  ],
+  "cats": [
+    {
+      "id": 1,
+      "name": "Hello",
+      "img": "https://lorempixel.com/200/200/cats/"
+    },
+    {
+      "id": 2,
+      "name": "Hello Kitty",
+      "img": "https://lorempixel.com/200/200/cats/"
+    },
+    {
+      "id": 3,
+      "name": "Kitty",
+      "img": "https://lorempixel.com/200/200/cats/"
+    }
+  ]
+}
